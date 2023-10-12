@@ -7,4 +7,4 @@ print("MM MM   I   S")
 print("M M M   I    SSS")
 print("M   M   I       S")
 print("M   M   I   S   S")
-print("M   M IIIII  SSS")block_
+print("M   M IIIII  SSS")
